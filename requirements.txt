@@ -1,0 +1,17 @@
+Flask
+Flask-Cors
+Flask-SocketIO
+requests
+beautifulsoup4
+pymongo
+tensorflow-cpu
+keras
+tf-keras
+transformers
+scikit-learn
+numpy
+pandas
+twilio
+werkzeug
+gunicorn
+eventlet
